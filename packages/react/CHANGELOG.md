@@ -1,5 +1,15 @@
 # @modern-kit/react
 
+## 1.20.0
+
+### Minor Changes
+
+- [#489](https://github.com/modern-agile-team/modern-kit/pull/489) [`7548153`](https://github.com/modern-agile-team/modern-kit/commit/7548153e59ff3ccc36c97bdc606278ae17249cb9) Thanks [@ssi02014](https://github.com/ssi02014)! - feat(react): useColorScheme 신규 훅 추가 - @ssi02014
+
+### Patch Changes
+
+- [#486](https://github.com/modern-agile-team/modern-kit/pull/486) [`878077c`](https://github.com/modern-agile-team/modern-kit/commit/878077c6a4a570640146b64f7798fbd9053ae596) Thanks [@Sangminnn](https://github.com/Sangminnn)! - fix(react): useBlockPromiseMultipleClick isLoading 이슈 해결 - @Sangminnn
+
 ## 1.19.1
 
 ### Patch Changes
